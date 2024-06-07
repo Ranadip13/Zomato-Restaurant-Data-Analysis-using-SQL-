@@ -15,7 +15,7 @@ While analyzing Zomato restaurant data, the focus was on the following aspects:
 -	High-Rated Cities Identification: Identified cities with at least 3 restaurants having ratings >= 4.9, sorted alphabetically in case of ties.
 -	Top Countries by Restaurant Count: Identified the top 5 countries with the most restaurants linked with Zomato.
 
-Results:
+### Results:
 	In the above analysis, cities with poor restaurant ratings and restaurants with poor offline services were identified. This analysis can assist Zomato in taking necessary actions to enhance their services in those areas.
 	Additionally, the most affordable and highly rated restaurants were identified city-wise, and restaurants were categorized into various cost brackets, such as Luxurious Expensive, Very Expensive, Expensive, High, Medium High, and Average. This categorization aids customers in selecting restaurants according to their preferences.
 	Furthermore, the top 5 countries with the highest number of restaurants linked with Zomato were identified. This information enables Zomato to concentrate on countries with a low number of restaurants linked with their platform to expand their business.
