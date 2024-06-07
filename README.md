@@ -1,7 +1,7 @@
 # Zomato-Restaurant-Data-Analysis-using-SQL
 The Zomato Restaurant Data Analysis initiative is dedicated to conducting an in-depth exploration and examination of restaurant data sourced from Zomato, a prominent online platform for food delivery and restaurant discovery. By harnessing the power of SQL for data manipulation and querying, this endeavour strives to unveil valuable insights that can guide strategic business decisions and foster a deeper comprehension of the restaurant landscape within a specific geographic area. Through meticulous analysis of this comprehensive dataset, the project aims to uncover patterns, trends, and opportunities that can potentially shape the future course of the industry and enhance the overall dining experience for consumers.
 
-Datasets: This data analysis project utilizes two datasets.
+### Datasets: This data analysis project utilizes two datasets.
 1.	Zomato – Containing comprehensive details of restaurants affiliated with Zomato. Containing 9551 rows and 13 columns: RestaurantID, Res_identify, CountryCode, City, Cuisines, Has_Table_booking, Has_Online_delivery, Is_delivering_now, Switch_to_order_menu, Price_range, Votes, Average_Cost_for_two, Rating
 2.	CountryTable – containing 15 rows and 2 columns: CountryCode, Country
 
@@ -16,7 +16,7 @@ While analyzing Zomato restaurant data, the focus was on the following aspects:
 -	Top Countries by Restaurant Count: Identified the top 5 countries with the most restaurants linked with Zomato.
 
 ### Results:
-	In the above analysis, cities with poor restaurant ratings and restaurants with poor offline services were identified. This analysis can assist Zomato in taking necessary actions to enhance their services in those areas.
-	Additionally, the most affordable and highly rated restaurants were identified city-wise, and restaurants were categorized into various cost brackets, such as Luxurious Expensive, Very Expensive, Expensive, High, Medium High, and Average. This categorization aids customers in selecting restaurants according to their preferences.
-	Furthermore, the top 5 countries with the highest number of restaurants linked with Zomato were identified. This information enables Zomato to concentrate on countries with a low number of restaurants linked with their platform to expand their business.
-	Moreover, Zomato can assist its customers by providing information about the best restaurants offering online delivery in any city or allowing customers to order specific cuisines from highly rated restaurants in any city.
+-	In the above analysis, cities with poor restaurant ratings and restaurants with poor offline services were identified. This analysis can assist Zomato in taking necessary actions to enhance their services in those areas.
+-	Additionally, the most affordable and highly rated restaurants were identified city-wise, and restaurants were categorized into various cost brackets, such as Luxurious Expensive, Very Expensive, Expensive, High, Medium High, and Average. This categorization aids customers in selecting restaurants according to their preferences.
+-	Furthermore, the top 5 countries with the highest number of restaurants linked with Zomato were identified. This information enables Zomato to concentrate on countries with a low number of restaurants linked with their platform to expand their business.
+-	Moreover, Zomato can assist its customers by providing information about the best restaurants offering online delivery in any city or allowing customers to order specific cuisines from highly rated restaurants in any city.
