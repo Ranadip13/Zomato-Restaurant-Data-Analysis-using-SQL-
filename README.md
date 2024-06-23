@@ -1,4 +1,4 @@
-# Zomato-Restaurant-Data-Analysis-using-SQL
+# Zomato Restaurant Data Analysis - using SQL
 The Zomato Restaurant Data Analysis initiative is dedicated to conducting an in-depth exploration and examination of restaurant data sourced from Zomato, a prominent online platform for food delivery and restaurant discovery. By harnessing the power of SQL for data manipulation and querying, this endeavour strives to unveil valuable insights that can guide strategic business decisions and foster a deeper comprehension of the restaurant landscape within a specific geographic area. Through meticulous analysis of this comprehensive dataset, the project aims to uncover patterns, trends, and opportunities that can potentially shape the future course of the industry and enhance the overall dining experience for consumers.
 
 ### Datasets: This data analysis project utilizes two datasets.
